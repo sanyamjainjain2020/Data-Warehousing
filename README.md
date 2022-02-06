@@ -4,7 +4,7 @@
 
 Data warehousing is a process of getting useful information from a collection of small datasets and those collections of datasets are known as a data warehouse. Data warehousing involves data cleaning, data integration, and data consolidations.
 
-Need to make a warehouse for especially business purposes because to improve the organization we need a data important data, So data warehousing helps to this process fast. It is basically the analysis of historical data and gives important information. The concept of data warehousing was introduced in 1988 by IBM researchers Barry Devlin and Paul Murphy.
+Need to make a warehouse for especially business purposes because to improve the organization we need a data important data, so data warehousing helps to this process fast. It is basically the analysis of historical data and gives important information. The concept of data warehousing was introduced in 1988 by IBM researchers Barry Devlin and Paul Murphy.
 
 ![This is an image](https://cdn.corporatefinanceinstitute.com/assets/data-warehousing1-1024x505.png)
 
